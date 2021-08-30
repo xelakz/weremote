@@ -11,7 +11,7 @@
         DB_PASSWORD=
     ```
     ```
-    DROPBOX_TOKEN="sl.A3g-yiCTPMkfv1clRNvdCkrCgiQuqAyDqDU1ESnnb_vkHt7u8fsZHcRaMmwxTBLjWt67MKr7e952JqawONd_1fGsICFgbjXJhdpjZh0AqcTza59riAEhmQUKEcDiiPGncPTgN_8"
+    DROPBOX_TOKEN=
     ```
 - run `php artisan migrate` to automatically create the tables needed.
 
