@@ -1,7 +1,7 @@
 #Instructions
 - extract the zip and put them in your local server
 - create database `weremote` on your local database server
-- inside the root directory, run `composer update`
+- inside the root directory, run `composer install`
 - update values for database connection and dropbox token in .env file
     ```
         DB_HOST=127.0.0.1
